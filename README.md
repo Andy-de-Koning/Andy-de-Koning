@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andy-de-Koning
-- 🌱 I’m currently learning Python, C# en C
+- 🌱 I’m currently learning Python en API development
 - 📫 How to reach me andy@andydekoning.nl
 
 <!---
